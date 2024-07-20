@@ -24,7 +24,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 - Threat Analysis
 - Incident Management System
 - Incident Response Simulation
-- Password Cracking Using John-the-Ripper
+- <a href="https://docs.google.com/document/d/1WOtywC39sUnbdDrjHDmYeFoL-qaLX-RLKBq2I-OKPMs/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
 - Penetration Testing
 - <a href="https://github.com/harshitgarg-cs/Password-Strength-Checker">Password Strength Checker</a>
 - <a href="https://github.com/harshitgarg-cs/Student-Management-System">Student Management System</a>
