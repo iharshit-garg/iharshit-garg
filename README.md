@@ -28,7 +28,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 - Penetration Testing
 - Password Strength Checker
 - Student Management System
-- <a href="https://github.com/harshitgarg-cs/Contact-Management-System"Contact Management System</a>
+- < a href="https://github.com/harshitgarg-cs/Contact-Management-System"Contact Management System</a>
 
 ## Tools
 | Tool                    |
