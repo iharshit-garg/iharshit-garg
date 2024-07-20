@@ -34,8 +34,8 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-CodePath%20CYB%20101-f4c095?&style=for-the-badge" />  
-<img src="https://img.shields.io/badge/-CodePath%20CYB%20102-f4c095?&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/-CodePath%20CYB%20101-#04c385?&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/-CodePath%20CYB%20102-#04c385?&style=for-the-badge" />  
 <img src="https://img.shields.io/badge/-Mastercard%20Cybersecurity%20Job%20Simulation-f4c095?&style=for-the-badge" />  
 <img src="https://img.shields.io/badge/-Tata%20Group%20Cybersecurity%20Analyst%20Job%20Simulation-f4c095?&style=for-the-badge" />  
 </div>
