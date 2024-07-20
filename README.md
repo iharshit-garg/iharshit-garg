@@ -5,13 +5,7 @@
 
 I am a Computer Science undergraduate at Georgia State University, passionate about cybersecurity and ethical hacking. With hands-on experience in various cybersecurity tools and techniques, I enjoy solving complex security challenges and staying ahead of emerging threats.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
