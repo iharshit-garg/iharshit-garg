@@ -1,7 +1,7 @@
 # Hello, I'm Harshit Garg
 <a href="https://linkedin.com/in/harshitgarg-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-##Introduction
+## Introduction
 
 I am a Computer Science undergraduate at Georgia State University, passionate about cybersecurity and ethical hacking. With hands-on experience in various cybersecurity tools and techniques, I enjoy solving complex security challenges and staying ahead of emerging threats.
 
