@@ -32,13 +32,12 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 | nmap                    |
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CodePath%20CYB%20101-FF0000?&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/-CodePath%20CYB%20102-FF0000?&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/-Mastercard%20Cybersecurity%20Job%20Simulation%20by%20Forage-FF0000?&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/-Tata%20Group%20Cybersecurity%20Analyst%20Job%20Simulation%20by%20Forage-FF0000?&style=for-the-badge" />  
 </div>
 
 ## Projects
