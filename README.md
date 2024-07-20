@@ -28,8 +28,9 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 - Penetration Testing
 - Password Strength Checker
 - Student Management System
-- Contact Management System## Tools
+- Contact Management System
 
+## Tools
 | Tool                    |
 |-------------------------|
 | John-the-Ripper         |
