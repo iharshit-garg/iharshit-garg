@@ -41,5 +41,11 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Threat Analysis
+- Incident Management System
+- Incident Response Simulation
+- Password Cracking Using John-the-Ripper
+- Penetration Testing
+- Password Strength Checker
+- Student Management System
+- Contact Management System
