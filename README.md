@@ -18,7 +18,18 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 | Vulnerability Assessment     |                 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+| Tool                    |
+|-------------------------|
+| John-the-Ripper         |
+| SIEM                    |
+| Splunk                  |
+| Wireshark               |
+| VirusTotal              |
+| Metasploit              |
+| Snort                   |
+| MISP                    |
+| nmap                    |
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
