@@ -15,7 +15,8 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 | Penetration Testing          |                 
 | Malware Analysis             |               
 | OSINT-based Threat Analysis  |                
-| Vulnerability Assessment     |   
+| Vulnerability Assessment     |  
+| SQL Injection                |
 | Linux                        |
 | VMWare Workstation           |
 | Python                       |
