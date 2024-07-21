@@ -25,6 +25,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 - Threat Analysis
 - Incident Management System
 - Incident Response Simulation
+- HTB SQL injection
 - <a href="https://docs.google.com/document/d/1WOtywC39sUnbdDrjHDmYeFoL-qaLX-RLKBq2I-OKPMs/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
 - <a href="https://docs.google.com/document/d/1USAkCNY12xa52qxT4PKNKjPc9a2BSeKEb9DjTNLIogo/edit?usp=sharing">Penetration Testing</a>
 - <a href="https://github.com/harshitgarg-cs/Password-Strength-Checker">Password Strength Checker</a>
