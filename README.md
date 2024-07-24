@@ -21,6 +21,15 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 | VMWare Workstation           |
 | Python                       |
 
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-CodePath%20CYB%20101-04c385?&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/-CodePath%20CYB%20102-04c385?&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/-Mastercard%20Cybersecurity%20Job%20Simulation-ff6000?&style=for-the-badge" />  
+<img src="https://img.shields.io/badge/-Tata%20Group%20Cybersecurity%20Analyst%20Job%20Simulation-ffffff?&style=for-the-badge" />  
+</div>
+
 ## Projects
 - Threat Analysis
 - Incident Management System
@@ -44,12 +53,3 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 | Snort                   |
 | MISP                    |
 | nmap                    |
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-CodePath%20CYB%20101-04c385?&style=for-the-badge" />  
-<img src="https://img.shields.io/badge/-CodePath%20CYB%20102-04c385?&style=for-the-badge" />  
-<img src="https://img.shields.io/badge/-Mastercard%20Cybersecurity%20Job%20Simulation-ff6000?&style=for-the-badge" />  
-<img src="https://img.shields.io/badge/-Tata%20Group%20Cybersecurity%20Analyst%20Job%20Simulation-ffffff?&style=for-the-badge" />  
-</div>
