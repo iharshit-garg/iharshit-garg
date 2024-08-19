@@ -39,6 +39,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 - HTB SQL injection
 - <a href="https://docs.google.com/document/d/1WOtywC39sUnbdDrjHDmYeFoL-qaLX-RLKBq2I-OKPMs/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
 - <a href="https://docs.google.com/document/d/1USAkCNY12xa52qxT4PKNKjPc9a2BSeKEb9DjTNLIogo/edit?usp=sharing">Penetration Testing</a>
+- <a href="https://github.com/harshitgarg-cs/TCS_TechCorp">IAM Solution Design for TechCorp</a>
 - <a href="https://github.com/harshitgarg-cs/Password-Strength-Checker">Password Strength Checker</a>
 - <a href="https://github.com/harshitgarg-cs/Student-Management-System">Student Management System</a>
 - <a href="https://github.com/harshitgarg-cs/Contact-Management-System">Contact Management System</a>
