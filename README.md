@@ -38,8 +38,8 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 - Incident Management System
 - Incident Response Simulation
 - HTB SQL injection
-- <a href="https://docs.google.com/document/d/1vSNeREeQzuSLH_iwBjX_zBDGJkSAxjUr8GVvH-k3PdM/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
-- <a href="https://docs.google.com/document/d/12M4wIRPZV8NMGmySnsqO5tQt8oEtoG5D-JxzxlrppsA/edit?usp=sharing">Penetration Testing</a>
+- <a href="https://docs.google.com/document/d/18jDXehjBdrRc3naA6y2e_f47S0itI-9HSxBUFwKEmng/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
+- <a href="https://docs.google.com/document/d/1i36EEjh7PZgxF31D7r_cICfkQDM6E7Bl0ZwiDtVOW9Y/edit?usp=sharing">Penetration Testing</a>
 - <a href="https://github.com/harshitgarg-cs/DATACOM_APT34/tree/main">DATACOM_APT34</a>
 - <a href="https://github.com/harshitgarg-cs/TCS_TechCorp">IAM Solution Design for TechCorp</a>
 - <a href="https://github.com/harshitgarg-cs/Password-Strength-Checker">Password Strength Checker</a>
