@@ -7,19 +7,25 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 
 ## Skills
 
-| Skill                        |              
-|------------------------------|
-| Incident Response & Investigation |             
-| Threat Detection & Analysis  |            
-| Password Cracking            |
-| Penetration Testing          |                 
-| Malware Analysis             |               
-| OSINT-based Threat Analysis  |                
-| Vulnerability Assessment     |  
-| Identity and Access Management (IAM)            |
-| Linux                        |
-| VMWare Workstation           |
-| Python                       |
+<table>
+  <tr>
+    <td>Incident Response & Investigation</td>
+    <td>Threat Detection & Analysis</td>
+    <td>Password Cracking</td>
+    <td>Penetration Testing</td>
+  </tr>
+  <tr>
+    <td>Malware Analysis</td>
+    <td>OSINT-based Threat Analysis</td>
+    <td>Vulnerability Assessment</td>
+    <td>Identity and Access Management (IAM)</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>VMWare Workstation</td>
+    <td>Python</td>
+  </tr>
+</table>
 
 ## Certifications
 
