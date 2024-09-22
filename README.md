@@ -48,6 +48,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 ## Tools
 | Tool                    |
 |-------------------------|
+| OSINT
 | John-the-Ripper         |
 | SIEM                    |
 | Splunk                  |
