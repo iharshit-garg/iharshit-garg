@@ -35,7 +35,6 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 
 ## Projects
 - Threat Analysis
-- Incident Management System
 - Incident Response Simulation
 - HTB SQL injection
 - <a href="https://docs.google.com/document/d/18jDXehjBdrRc3naA6y2e_f47S0itI-9HSxBUFwKEmng/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
