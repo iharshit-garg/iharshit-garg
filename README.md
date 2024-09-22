@@ -35,6 +35,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 </div>
 
 ## Projects
+- Level Effect CTF Challenge
 - Threat Analysis
 - Incident Response Simulation
 - <a href="https://docs.google.com/document/d/102aU0OD9SejbvQjM3tDATHwW0fnEr7de0w1i_V7BBkc/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
