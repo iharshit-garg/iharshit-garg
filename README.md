@@ -10,13 +10,13 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 | Skill                        |              
 |------------------------------|
 | Incident Response Simulation |             
-| Threat Analysis              |            
+| Threat Detection & Analysis  |            
 | Password Cracking            |
 | Penetration Testing          |                 
 | Malware Analysis             |               
 | OSINT-based Threat Analysis  |                
 | Vulnerability Assessment     |  
-| SQL Injection                |
+| Identity and Access Management (IAM)            |
 | Linux                        |
 | VMWare Workstation           |
 | Python                       |
