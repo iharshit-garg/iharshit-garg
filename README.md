@@ -9,7 +9,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 
 | Skill                        |              
 |------------------------------|
-| Incident Response Simulation |             
+| Incident Response & Investigation |             
 | Threat Detection & Analysis  |            
 | Password Cracking            |
 | Penetration Testing          |                 
