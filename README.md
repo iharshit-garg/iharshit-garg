@@ -36,8 +36,8 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 ## Projects
 - Threat Analysis
 - Incident Response Simulation
-- <a href="https://docs.google.com/document/d/18jDXehjBdrRc3naA6y2e_f47S0itI-9HSxBUFwKEmng/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
-- <a href="https://docs.google.com/document/d/1i36EEjh7PZgxF31D7r_cICfkQDM6E7Bl0ZwiDtVOW9Y/edit?usp=sharing">Penetration Testing</a>
+- <a href="https://docs.google.com/document/d/102aU0OD9SejbvQjM3tDATHwW0fnEr7de0w1i_V7BBkc/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
+- <a href="https://docs.google.com/document/d/1JEVMNbY41l1lypgWDMsnQ2gPhMRMmK2OBc004N4k4S0/edit?usp=sharing">Penetration Testing</a>
 - <a href="https://github.com/harshitgarg-cs/DATACOM_APT34/tree/main">DATACOM_APT34</a>
 - <a href="https://github.com/harshitgarg-cs/TCS_TechCorp">IAM Solution Design for TechCorp</a>
 - <a href="https://github.com/harshitgarg-cs/Password-Strength-Checker">Password Strength Checker</a>
