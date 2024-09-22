@@ -27,6 +27,26 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
   </tr>
 </table>
 
+## Tools
+<table>
+  <tr>
+    <td>OSINT</td>
+    <td>John-the-Ripper</td>
+    <td>SIEM</td>
+    <td>Splunk</td>
+  </tr>
+  <tr>
+    <td>Wireshark</td>
+    <td>VirusTotal</td>
+    <td>Metasploit</td>
+    <td>Snort</td>
+  </tr>
+  <tr>
+    <td>MISP</td>
+    <td>nmap</td>
+  </tr>
+</table>
+
 ## Certifications
 
 <div>
@@ -50,17 +70,3 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 - <a href="https://github.com/harshitgarg-cs/Password-Strength-Checker">Password Strength Checker</a>
 - <a href="https://github.com/harshitgarg-cs/Student-Management-System">Student Management System</a>
 - <a href="https://github.com/harshitgarg-cs/Contact-Management-System">Contact Management System</a>
-
-## Tools
-| Tool                    |
-|-------------------------|
-| OSINT
-| John-the-Ripper         |
-| SIEM                    |
-| Splunk                  |
-| Wireshark               |
-| VirusTotal              |
-| Metasploit              |
-| Snort                   |
-| MISP                    |
-| nmap                    |
