@@ -39,8 +39,6 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>Wireshark</td>
     <td>VirusTotal</td>
     <td>Metasploit</td>
-  </tr>
-  <tr>
     <td>MISP</td>
     <td>nmap</td>
   </tr>
