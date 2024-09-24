@@ -34,8 +34,6 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>John-the-Ripper</td>
     <td>SIEM</td>
     <td>Splunk</td>
-  </tr>
-  <tr>
     <td>Wireshark</td>
     <td>VirusTotal</td>
     <td>Metasploit</td>
