@@ -61,6 +61,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 - <a href="https://github.com/harshitgarg-cs/Incident-Response-by-IBM/tree/main">Incident Respone Simulation</a>
 - <a href="https://github.com/harshitgarg-cs/Password-Crackathon/tree/main">Password Cracking Using John-the-Ripper</a>
 - <a href="https://github.com/harshitgarg-cs/Penetration-Testing/tree/main">Penetration Testing</a>
+- <a href="https://github.com/harshitgarg-cs/DIY-Malware">DIY Malware</a>
 - <a href="https://github.com/harshitgarg-cs/DATACOM_APT34/tree/main">DATACOM_APT34</a>
 - <a href="https://github.com/harshitgarg-cs/TCS_TechCorp">IAM Solution Design for TechCorp</a>
 - <a href="https://github.com/harshitgarg-cs/Password-Strength-Checker">Password Strength Checker</a>
