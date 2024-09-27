@@ -59,7 +59,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 ## Projects
 - Level Effect CTF Challenge
 - <a href="https://github.com/harshitgarg-cs/Incident-Response-by-IBM/tree/main">Incident Respone Simulation</a>
-- <a href="https://docs.google.com/document/d/102aU0OD9SejbvQjM3tDATHwW0fnEr7de0w1i_V7BBkc/edit?usp=sharing">Password Cracking Using John-the-Ripper</a>
+- <a href="https://github.com/harshitgarg-cs/Password-Crackathon/tree/main">Password Cracking Using John-the-Ripper</a>
 - <a href="https://docs.google.com/document/d/1JEVMNbY41l1lypgWDMsnQ2gPhMRMmK2OBc004N4k4S0/edit?usp=sharing">Penetration Testing</a>
 - <a href="https://github.com/harshitgarg-cs/DATACOM_APT34/tree/main">DATACOM_APT34</a>
 - <a href="https://github.com/harshitgarg-cs/TCS_TechCorp">IAM Solution Design for TechCorp</a>
