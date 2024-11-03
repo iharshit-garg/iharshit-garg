@@ -25,6 +25,10 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>VMWare Workstation</td>
     <td>Python</td>
   </tr>
+  <tr>
+    <td>Forensics</td>
+    <td>Cryptography</td>
+  </tr>
 </table>
 
 ## Tools
