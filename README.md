@@ -45,6 +45,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>nmap</td>
     <td>NIST</td>
     <td>MSF Venom</td>
+    <td>CyberChef</td>
   </tr>
 </table>
 
