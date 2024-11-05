@@ -63,7 +63,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 </div>
 
 ## Projects
-- <a href="https://github.com/harshitgarg-cs/cybersecurity-lab-journal">Cybersecurity Lab Journal</a>
+- <a href="https://github.com/harshitgarg-cs/ctf-challenges">CTF Challenges</a>
 - <a href="https://github.com/harshitgarg-cs/Incident-Response-by-IBM/tree/main">Incident Respone Simulation</a>
 - <a href="https://github.com/harshitgarg-cs/Password-Crackathon/tree/main">Password Cracking Using John-the-Ripper</a>
 - <a href="https://github.com/harshitgarg-cs/Penetration-Testing/tree/main">Penetration Testing</a>
