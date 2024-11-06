@@ -40,6 +40,8 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>Splunk</td>
     <td>Wireshark</td>
     <td>VirusTotal</td>
+  </tr>
+  <tr>
     <td>Metasploit</td>
     <td>MISP</td>
     <td>nmap</td>
