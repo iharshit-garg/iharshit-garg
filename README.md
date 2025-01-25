@@ -31,7 +31,6 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>Ethical Hacking</td>
     <td>Forensics</td>
     <td>Cryptography</td>
-    <td>Malware Analysis</td>
   </tr>
 </table>
 
