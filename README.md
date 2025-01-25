@@ -38,18 +38,17 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>OSINT</td>
     <td>John-the-Ripper</td>
     <td>SIEM</td>
-    <td>Splunk</td>
     <td>Wireshark</td>
     <td>VirusTotal</td>
     <td>Azure Active Directory</td>
   </tr>
   <tr>
     <td>Metasploit</td>
-    <td>MISP</td>
     <td>nmap</td>
     <td>NIST</td>
     <td>MSF Venom</td>
     <td>CyberChef</td>
+    <td>Shodan</td>
   </tr>
 </table>
 
