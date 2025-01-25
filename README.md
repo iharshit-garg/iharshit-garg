@@ -11,8 +11,8 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 <table>
   <tr>
     <td>Incident Response & Investigation</td>
-    <td>Threat Detection & Analysis</td>
-    <td>Password Cracking</td>
+    <td>Threat Detection & Mitigation</td>
+    <td>Password Hashing</td>
     <td>Penetration Testing</td>
   </tr>
   <tr>
@@ -22,13 +22,16 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>Identity and Access Management (IAM)</td>
   </tr>
   <tr>
-    <td>Linux</td>
+    <td>Kali Linux</td>
     <td>VMWare Workstation</td>
     <td>Python</td>
+    <td>Network Security</td>
   </tr>
   <tr>
+    <td>Ethical Hacking</td>
     <td>Forensics</td>
     <td>Cryptography</td>
+    <td>Malware Analysis</td>
   </tr>
 </table>
 
