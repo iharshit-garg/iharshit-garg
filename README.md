@@ -41,6 +41,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>Splunk</td>
     <td>Wireshark</td>
     <td>VirusTotal</td>
+    <td>Azure Active Directory</td>
   </tr>
   <tr>
     <td>Metasploit</td>
@@ -66,6 +67,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 </div>
 
 ## Projects
+- <a href="https://github.com/harshitgarg-cs/Azure-Active-Directory">Azure Active Directory</a>
 - <a href="https://github.com/harshitgarg-cs/ctf-challenges">CTF Challenges</a>
 - <a href="https://github.com/harshitgarg-cs/Incident-Response-by-IBM/tree/main">Incident Respone Simulation</a>
 - <a href="https://github.com/harshitgarg-cs/Password-Crackathon/tree/main">Password Cracking Using John-the-Ripper</a>
