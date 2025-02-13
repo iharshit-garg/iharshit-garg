@@ -43,6 +43,8 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
     <td>Wireshark</td>
     <td>VirusTotal</td>
     <td>Azure Active Directory</td>
+    <td>IDS</td>
+    <td>Logging</td>
   </tr>
   <tr>
     <td>Metasploit</td>
