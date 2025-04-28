@@ -1,6 +1,6 @@
 # Hello, I'm Harshit Garg 👋
 <a href="https://linkedin.com/in/iharshit-garg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://harshitgarg-cs.github.io/Harshit-Garg_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-04c385?&style=for-the-badge" /></a>
+<a href="https://iharshit-garg.github.io/Harshit-Garg_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-04c385?&style=for-the-badge" /></a>
 
 ## Introduction
 
@@ -70,15 +70,15 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 </div>
 
 ## Projects
-- <a href="https://github.com/harshitgarg-cs/hybrid-intrusion-detection-system.git">Hybrid Intrusion Detection System Using Python</a>
-- <a href="https://github.com/harshitgarg-cs/Azure-Active-Directory">Azure Active Directory</a>
-- <a href="https://github.com/harshitgarg-cs/ctf-challenges">CTF Challenges</a>
-- <a href="https://github.com/harshitgarg-cs/Incident-Response-by-IBM/tree/main">Incident Respone Simulation</a>
-- <a href="https://github.com/harshitgarg-cs/Password-Crackathon/tree/main">Password Cracking Using John-the-Ripper</a>
-- <a href="https://github.com/harshitgarg-cs/Penetration-Testing/tree/main">Penetration Testing</a>
-- <a href="https://github.com/harshitgarg-cs/DIY-Malware">DIY Malware</a>
-- <a href="https://github.com/harshitgarg-cs/DATACOM_APT34/tree/main">DATACOM_APT34</a>
-- <a href="https://github.com/harshitgarg-cs/TCS_TechCorp">IAM Solution Design for TechCorp</a>
-- <a href="https://github.com/harshitgarg-cs/Password-Strength-Checker">Password Strength Checker</a>
-- <a href="https://github.com/harshitgarg-cs/Student-Management-System">Student Management System</a>
-- <a href="https://github.com/harshitgarg-cs/Contact-Management-System">Contact Management System</a>
+- <a href="https://github.com/iharshit-garg/hybrid-intrusion-detection-system.git">Hybrid Intrusion Detection System Using Python</a>
+- <a href="https://github.com/iharshit-garg/Azure-Active-Directory">Azure Active Directory</a>
+- <a href="https://github.com/iharshit-garg/ctf-challenges">CTF Challenges</a>
+- <a href="https://github.com/iharshit-garg/Incident-Response-by-IBM/tree/main">Incident Respone Simulation</a>
+- <a href="https://github.com/iharshit-garg/Password-Crackathon/tree/main">Password Cracking Using John-the-Ripper</a>
+- <a href="https://github.com/iharshit-garg/Penetration-Testing/tree/main">Penetration Testing</a>
+- <a href="https://github.com/iharshit-garg/DIY-Malware">DIY Malware</a>
+- <a href="https://github.com/iharshit-garg/DATACOM_APT34/tree/main">DATACOM_APT34</a>
+- <a href="https://github.com/iharshit-garg/TCS_TechCorp">IAM Solution Design for TechCorp</a>
+- <a href="https://github.com/iharshit-garg/Password-Strength-Checker">Password Strength Checker</a>
+- <a href="https://github.com/iharshit-garg/Student-Management-System">Student Management System</a>
+- <a href="https://github.com/iharshit-garg/Contact-Management-System">Contact Management System</a>
