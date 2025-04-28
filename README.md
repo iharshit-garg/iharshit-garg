@@ -1,5 +1,5 @@
 # Hello, I'm Harshit Garg 👋
-<a href="https://linkedin.com/in/harshitgarg-cs/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/iharshit-garg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://harshitgarg-cs.github.io/Harshit-Garg_Resume.pdf"><img src="https://img.shields.io/badge/-Resume-04c385?&style=for-the-badge" /></a>
 
 ## Introduction
