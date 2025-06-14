@@ -70,6 +70,7 @@ I am a Computer Science undergraduate at Georgia State University, passionate ab
 </div>
 
 ## Projects
+- <a href="https://github.com/iharshit-garg/AIG-Security-Analyst">AIG Security Analyst Job Simulation</a>
 - <a href="https://github.com/iharshit-garg/hybrid-intrusion-detection-system.git">Hybrid Intrusion Detection System Using Python</a>
 - <a href="https://github.com/iharshit-garg/Azure-Active-Directory">Azure Active Directory</a>
 - <a href="https://github.com/iharshit-garg/ctf-challenges">CTF Challenges</a>
