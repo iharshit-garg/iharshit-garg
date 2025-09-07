@@ -1,6 +1,6 @@
 # Hello, I'm Harshit Garg 👋
 <a href="https://linkedin.com/in/iharshit-garg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/iharshit-garg/iharshit-garg.github.io/blob/main/Harshit%20Garg%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-04c385?&style=for-the-badge" /></a>
+<a href="https://github.com/iharshit-garg/iharshit-garg.github.io/Harshit%20Garg%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-04c385?&style=for-the-badge" /></a>
 
 ## Certifications
 
