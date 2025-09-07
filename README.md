@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/-Tata%20Group%20Cybersecurity%20Analyst%20Job%20Simulation-ffffff?&style=for-the-badge" /> 
 <img src="https://img.shields.io/badge/-ISC2%3A%20Certified%20in%20Cybersecurity-42823d?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Microsoft%3A%20Cybersecurity%20Analyst%20Professional%20Certificate-ffb902?&style=for-the-badge" />
+<img src="https://img.shields.io/badge/-AWS%3A%20Cloud%20Practitioner%20Essentials%20Certificate-ffb902?&style=for-the-badge" />
 
 </div>
 
