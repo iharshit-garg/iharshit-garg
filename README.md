@@ -2,60 +2,6 @@
 <a href="https://linkedin.com/in/iharshit-garg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://iharshit-garg.github.io/Harshit-Garg-Resume.pdf"><img src="https://img.shields.io/badge/-Resume-04c385?&style=for-the-badge" /></a>
 
-## Introduction
-
-I am a Computer Science undergraduate at Georgia State University, passionate about cybersecurity and ethical hacking. With hands-on experience in various cybersecurity tools and techniques, I enjoy solving complex security challenges and staying ahead of emerging threats.
-
-## Skills
-
-<table>
-  <tr>
-    <td>Incident Response & Investigation</td>
-    <td>Threat Detection & Mitigation</td>
-    <td>Password Hashing</td>
-    <td>Penetration Testing</td>
-  </tr>
-  <tr>
-    <td>Malware Analysis</td>
-    <td>OSINT-based Threat Analysis</td>
-    <td>Vulnerability Assessment</td>
-    <td>Identity and Access Management (IAM)</td>
-  </tr>
-  <tr>
-    <td>Kali Linux</td>
-    <td>VMWare Workstation</td>
-    <td>Python</td>
-    <td>Network Security</td>
-  </tr>
-  <tr>
-    <td>Ethical Hacking</td>
-    <td>Forensics</td>
-    <td>Cryptography</td>
-  </tr>
-</table>
-
-## Tools
-<table>
-  <tr>
-    <td>OSINT</td>
-    <td>John-the-Ripper</td>
-    <td>SIEM</td>
-    <td>Wireshark</td>
-    <td>VirusTotal</td>
-    <td>Azure Active Directory</td>
-    <td>IDS</td>
-    <td>Logging</td>
-  </tr>
-  <tr>
-    <td>Metasploit</td>
-    <td>nmap</td>
-    <td>NIST</td>
-    <td>MSF Venom</td>
-    <td>CyberChef</td>
-    <td>Shodan</td>
-  </tr>
-</table>
-
 ## Certifications
 
 <div>
