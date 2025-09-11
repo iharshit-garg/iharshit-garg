@@ -1,7 +1,7 @@
 # Harshit Garg – GRC & Threat Intelligence
 
 <a href="https://linkedin.com/in/iharshit-garg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="./Harshit-Garg-Resume.pdf"><img src="https://img.shields.io/badge/-Resume-04c385?&style=for-the-badge" /></a>
+<a href="https://iharshit-garg.github.io/Harshit%20Garg%20Resume.pdf"><img src="https://img.shields.io/badge/-Resume-04c385?&style=for-the-badge" /></a>
 
 Cybersecurity-focused Computer Science senior specializing in Governance, Risk & Compliance (GRC) and Threat Research. Hands-on experience in IAM, policy compliance, incident detection, and log-driven investigations through internships, projects, and CTFs. ISC2 Certified in Cybersecurity with practical skills in cloud security and OSINT.
 
